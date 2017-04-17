@@ -26,44 +26,29 @@ combineManifest(function() {
 
   // Push to git
   console.log('Pushing')
-  exec('git add -A', function(err, stdout, stderr) {
-    if (err != null) {
-      console.log('Error', err)
-      throw new Error(err);
-    } else if (typeof(stderr) != "string") {
-      console.log('Error', stderr)
-      throw new Error(stderr);
-    } else {
-      console.log(stdout)
-    }
+  // exec('git add -A', function(err, stdout, stderr) {
+  //   if (err != null) {
+  //     console.log('Error', err)
+  //     throw new Error(err);
+  //   } else if (typeof(stderr) != "string") {
+  //     console.log('Error', stderr)
+  //     throw new Error(stderr);
+  //   } else {
+  //     console.log(stdout)
+  //   }
 
-  exec('git commit -m "Update build"', function(err, stdout, stderr) {
-    if (err != null) {
-      console.log('Error', err)
-      throw new Error(err);
-    } else if (typeof(stderr) != "string") {
-      console.log('Error', stderr)
-      throw new Error(stderr);
-    } else {
-      console.log(stdout)
-    }
+  // exec('git commit -m "Update build"', function(err, stdout, stderr) {
+  //   if (err != null) {
+  //     console.log('Error', err)
+  //     throw new Error(err);
+  //   } else if (typeof(stderr) != "string") {
+  //     console.log('Error', stderr)
+  //     throw new Error(stderr);
+  //   } else {
+  //     console.log(stdout)
+  //   }
 
-  exec('git push origin master', function(err, stdout, stderr) {
-    if (err != null) {
-      console.log('Error', err)
-      throw new Error(err);
-    } else if (typeof(stderr) != "string") {
-      console.log('Error', stderr)
-      throw new Error(stderr);
-    } else {
-      console.log(stdout)
-    }
-  });
-  });
-  
-  });
-
-  // exec('git add -A && git commit -m "Update build" && git push origin master', function(err, stdout, stderr) {
+  // exec('git push origin master', function(err, stdout, stderr) {
   //   if (err != null) {
   //     console.log('Error', err)
   //     throw new Error(err);
@@ -74,4 +59,31 @@ combineManifest(function() {
   //     console.log(stdout)
   //   }
   // });
+  // });
+
+  // });
+
+  // exec('git push origin master', function(err, stdout, stderr) {
+  //   if (err != null) {
+  //     console.log('Error', err)
+  //     throw new Error(err);
+  //   } else if (typeof(stderr) != "string") {
+  //     console.log('Error', stderr)
+  //     throw new Error(stderr);
+  //   } else {
+  //     console.log(stdout)
+  //   }
+  // });
+  
+  exec('git add -A && git commit -m "Update build" && git push origin master', function(err, stdout, stderr) {
+    if (err != null) {
+      console.log('Error', err)
+      throw new Error(err);
+    } else if (typeof(stderr) != "string") {
+      console.log('Error', stderr)
+      throw new Error(stderr);
+    } else {
+      console.log(stdout)
+    }
+  });
 });
