@@ -1,0 +1,10 @@
+{
+  "file": "webrtc-16123-52b6562-win-x86.7z",
+  "date": "Tue Apr 18 14:33:47 2017 +0200",
+  "branch": "branch-heads/57",
+  "revision": "16123",
+  "sha": "52b6562a10b495cf771d8388ee51990d56074059",
+  "crc": "147a13e670458af67cb4976078987c29",
+  "target_os": "win",
+  "target_cpu": "x86"
+}
