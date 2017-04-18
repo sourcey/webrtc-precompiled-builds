@@ -1,1 +1,24 @@
-[{"file":"webrtc-16937-cf6f3f6-win-x64.7z","date":"Sat Apr 15 02:42:14 2017 +0200","branch":"branch-heads/58","revision":"16937","sha":"cf6f3f66bc5a4ef2a50a6536d72eb5190822de56","crc":"965dffbca973461defb16dbabc262f02","target_os":"win","target_cpu":"x64"},{"file":"webrtc-16937-cf6f3f6-win-x86.7z","date":"Sat Apr 15 02:42:14 2017 +0200","branch":"branch-heads/58","revision":"16937","sha":"cf6f3f66bc5a4ef2a50a6536d72eb5190822de56","crc":"0b110ea2692982ca11cf2712ebb377f3","target_os":"win","target_cpu":"x86"}]
+[
+  {
+    "file": "webrtc-16937-cf6f3f6-win-x64.7z",
+    "date": "Sat Apr 15 02:42:14 2017 +0200",
+    "branch": "branch-heads/58",
+    "revision": "16937",
+    "sha": "cf6f3f66bc5a4ef2a50a6536d72eb5190822de56",
+    "crc": "965dffbca973461defb16dbabc262f02",
+    "target_os": "win",
+    "target_cpu": "x64",
+    "latest": true
+  },
+  {
+    "file": "webrtc-16937-cf6f3f6-win-x86.7z",
+    "date": "Sat Apr 15 02:42:14 2017 +0200",
+    "branch": "branch-heads/58",
+    "revision": "16937",
+    "sha": "cf6f3f66bc5a4ef2a50a6536d72eb5190822de56",
+    "crc": "0b110ea2692982ca11cf2712ebb377f3",
+    "target_os": "win",
+    "target_cpu": "x86",
+    "latest": true
+  }
+]
