@@ -1,0 +1,10 @@
+{
+  "file": "webrtc-17657-02ba69d-linux-x64.tar.gz",
+  "date": "Thu Apr 27 10:57:39 2017 +0200",
+  "branch": "branch-heads/59",
+  "revision": "17657",
+  "sha": "02ba69db6e2cc96b4c677425a2c0e070261207b7",
+  "crc": "b81c620b607267575d501ea49815696a",
+  "target_os": "linux",
+  "target_cpu": "x64"
+}
