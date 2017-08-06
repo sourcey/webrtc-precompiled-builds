@@ -1,0 +1,10 @@
+{
+  "file": "webrtc-17657-02ba69d-win-x64.7z",
+  "date": "Wed Apr 19 01:31:55 2017 +0200",
+  "branch": "branch-heads/59",
+  "revision": "17657",
+  "sha": "02ba69db6e2cc96b4c677425a2c0e070261207b7",
+  "crc": "eedb5b3261d6711cb4e742eb63536104",
+  "target_os": "win",
+  "target_cpu": "x64"
+}
