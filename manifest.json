@@ -1,5 +1,27 @@
 [
   {
+    "file": "webrtc-18252-6294a7e-linux-x64.tar.gz",
+    "date": "Thu Aug 3 17:45:14 2017 +0200",
+    "branch": "branch-heads/60",
+    "revision": "18252",
+    "sha": "6294a7eb71c891e9ea41273a7a94113f6802d0da",
+    "crc": "808fca82106ccd97aae6a86a7ba949b1",
+    "target_os": "linux",
+    "target_cpu": "x64",
+    "latest": true
+  },
+  {
+    "file": "webrtc-18252-6294a7e-linux-x86.tar.gz",
+    "date": "Thu Aug 3 17:45:14 2017 +0200",
+    "branch": "branch-heads/60",
+    "revision": "18252",
+    "sha": "6294a7eb71c891e9ea41273a7a94113f6802d0da",
+    "crc": "68038e194f2f7540ce323d761378f06f",
+    "target_os": "linux",
+    "target_cpu": "x86",
+    "latest": true
+  },
+  {
     "file": "webrtc-17657-02ba69d-linux-x64.tar.gz",
     "date": "Thu Apr 27 12:42:05 2017 +0200",
     "branch": "branch-heads/59",
@@ -7,8 +29,7 @@
     "sha": "02ba69db6e2cc96b4c677425a2c0e070261207b7",
     "crc": "dad7fa01430cd1f34b1f2cecc4714457",
     "target_os": "linux",
-    "target_cpu": "x64",
-    "latest": true
+    "target_cpu": "x64"
   },
   {
     "file": "webrtc-16937-cf6f3f6-linux-x64.tar.gz",
@@ -19,6 +40,16 @@
     "crc": "7ea372a574f3b697c4bc938b1e6dc09b",
     "target_os": "linux",
     "target_cpu": "x64"
+  },
+  {
+    "file": "webrtc-16937-cf6f3f6-linux-x86.tar.gz",
+    "date": "Fri Apr 28 20:14:11 2017 +0200",
+    "branch": "branch-heads/58",
+    "revision": "16937",
+    "sha": "cf6f3f66bc5a4ef2a50a6536d72eb5190822de56",
+    "crc": "dff73d0b8723f95c25868a33c02093a5",
+    "target_os": "linux",
+    "target_cpu": "x86"
   },
   {
     "file": "webrtc-16937-cf6f3f6-win-x64.7z",

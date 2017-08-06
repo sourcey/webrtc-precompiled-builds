@@ -1,0 +1,10 @@
+{
+  "file": "webrtc-18252-6294a7e-linux-x86.tar.gz",
+  "date": "Thu Aug 3 17:45:14 2017 +0200",
+  "branch": "branch-heads/60",
+  "revision": "18252",
+  "sha": "6294a7eb71c891e9ea41273a7a94113f6802d0da",
+  "crc": "68038e194f2f7540ce323d761378f06f",
+  "target_os": "linux",
+  "target_cpu": "x86"
+}
