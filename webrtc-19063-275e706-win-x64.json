@@ -1,0 +1,10 @@
+{
+  "file": "webrtc-19063-275e706-win-x64.7z",
+  "date": "Sun Aug 6 23:56:33 2017 +0200",
+  "branch": "branch-heads/61",
+  "revision": "19063",
+  "sha": "275e7061c770d35903137094efa136eea64156c6",
+  "crc": "1627a120b06a452c79028f90e00040a0",
+  "target_os": "win",
+  "target_cpu": "x64"
+}

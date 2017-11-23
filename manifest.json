@@ -2,13 +2,33 @@
   {
     "file": "webrtc-19251-5c3c104-win-x64.7z",
     "date": "Wed Apr 19 01:31:55 2017 +0200",
-    "branch": "",
+    "branch": "master",
     "revision": "19251",
     "sha": "5c3c104ba0f843b9c46a921c8d6c2bd6c068acd2",
     "crc": "f9f518b579f682c8ff7d5b2a877eb325",
     "target_os": "win",
     "target_cpu": "x64",
     "latest": true
+  },
+  {
+    "file": "webrtc-19063-275e706-win-x64.7z",
+    "date": "Sun Aug 6 23:56:33 2017 +0200",
+    "branch": "branch-heads/61",
+    "revision": "19063",
+    "sha": "275e7061c770d35903137094efa136eea64156c6",
+    "crc": "1627a120b06a452c79028f90e00040a0",
+    "target_os": "win",
+    "target_cpu": "x64"
+  },
+  {
+    "file": "webrtc-18252-6294a7e-win-x64.7z",
+    "date": "Sun Aug 6 23:56:33 2017 +0200",
+    "branch": "branch-heads/60",
+    "revision": "18252",
+    "sha": "6294a7eb71c891e9ea41273a7a94113f6802d0da",
+    "crc": "bfdcc0ef0008794eb24ca3246b0f49aa",
+    "target_os": "win",
+    "target_cpu": "x64"
   },
   {
     "file": "webrtc-18252-6294a7e-linux-x86.tar.gz",

@@ -1,0 +1,10 @@
+{
+  "file": "webrtc-18252-6294a7e-win-x64.7z",
+  "date": "Sun Aug 6 23:56:33 2017 +0200",
+  "branch": "branch-heads/60",
+  "revision": "18252",
+  "sha": "6294a7eb71c891e9ea41273a7a94113f6802d0da",
+  "crc": "bfdcc0ef0008794eb24ca3246b0f49aa",
+  "target_os": "win",
+  "target_cpu": "x64"
+}
