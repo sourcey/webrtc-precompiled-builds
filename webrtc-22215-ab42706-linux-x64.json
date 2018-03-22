@@ -1,0 +1,10 @@
+{
+  "file": "webrtc-22215-ab42706-linux-x64.tar.gz",
+  "date": "Sun Aug 6 14:41:58 2017 +0200",
+  "branch": "branch-heads/66",
+  "revision": "22215",
+  "sha": "ab42706b6ce5158085ab04c3c85953366242a731",
+  "crc": "63a9b228deb3fcf44c470bab0e7bacd9",
+  "target_os": "linux",
+  "target_cpu": "x64"
+}
