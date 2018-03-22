@@ -1,0 +1,10 @@
+{
+  "file": "webrtc-18125-9fcf9d7-win-x64.7z",
+  "date": "Wed Apr 19 01:31:55 2017 +0200",
+  "branch": "",
+  "revision": "18125",
+  "sha": "9fcf9d7a3776f69cb4dc425c35ee8be0ee567d4c",
+  "crc": "0631e782cf3f5d742c7b2dbdca5e35bb",
+  "target_os": "win",
+  "target_cpu": "x64"
+}

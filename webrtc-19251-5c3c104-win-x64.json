@@ -1,0 +1,10 @@
+{
+  "file": "webrtc-19251-5c3c104-win-x64.7z",
+  "date": "Wed Apr 19 01:31:55 2017 +0200",
+  "branch": "master",
+  "revision": "19251",
+  "sha": "5c3c104ba0f843b9c46a921c8d6c2bd6c068acd2",
+  "crc": "f9f518b579f682c8ff7d5b2a877eb325",
+  "target_os": "win",
+  "target_cpu": "x64"
+}
